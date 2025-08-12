@@ -27,7 +27,7 @@ To get a copy of the application up and running, follow these simple steps.
 
 ### Installation
 
-You can download the application directly from the [official website](https://your-website-url.com) or from the **Releases** section of this GitHub repository.
+You can download the application directly from the [official website](https://ravish-ranjan.github.io/apps/resource-monitor) or from the **Releases** section of this GitHub repository.
 
 We offer two types of installers for Windows (x64):
 
